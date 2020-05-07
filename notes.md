@@ -1,3 +1,5 @@
+# References
+    https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
 # environment setup
     source ~/.local/bin/virtualenvwrapper.sh
     source ~/.bashrc
